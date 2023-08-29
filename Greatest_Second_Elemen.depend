@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1693331658 source:c:\users\dell\desktop\c_projects&tasks\tasks\greatest_second_elemen\main.c
+	<stdio.h>
+	"second.h"
+
+1693331672 c:\users\dell\desktop\c_projects&tasks\tasks\greatest_second_elemen\second.h
+
+1693331689 source:c:\users\dell\desktop\c_projects&tasks\tasks\greatest_second_elemen\second.c
+
